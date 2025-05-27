@@ -6,6 +6,7 @@ class Hotel {
     private List<Habitacion> habitaciones;
     private List<Reserva> reservas;
 
+
     public Hotel() {
         this.habitaciones = new ArrayList<>();
         this.reservas = new ArrayList<>();
