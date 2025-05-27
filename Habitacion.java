@@ -6,7 +6,6 @@ class Habitacion {
     private double precio;
     private boolean disponible;
 
-
     public Habitacion(int numero, String tipo, double precio) {
         this.numero = numero;
         this.tipo = tipo;

@@ -6,7 +6,6 @@ class Reserva {
     private LocalDate fechaSalida;
     private Habitacion habitacion;
 
-
     public Reserva(String cliente, LocalDate fechaEntrada, LocalDate fechaSalida, Habitacion habitacion) {
         this.cliente = cliente;
         this.fechaEntrada = fechaEntrada;

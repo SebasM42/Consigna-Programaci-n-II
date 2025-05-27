@@ -9,7 +9,6 @@ public class Main {
         hotel.agregarHabitacion(new Habitacion(102, "Doble", 80.0));
         hotel.agregarHabitacion(new Habitacion(103, "Suite", 150.0));
 
-
         // Mostrar habitaciones
         System.out.println("Habitaciones disponibles:");
         hotel.mostrarHabitaciones();
